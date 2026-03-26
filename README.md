@@ -11,3 +11,6 @@ storage.md - Solución de almacenamiento y redundancia de datos.
 packages.md - Optimización de la gestión de paquetes.
 networking.md - Configuración de la red en entornos de virtualización.
 security.md - Implementación de seguridad y firewall.
+
+Enlace de video:
+https://youtu.be/rbLlBITJtHI
